@@ -7,3 +7,5 @@ This is a repository containing my work of attempting to port TWRP (TeamWin Reco
 * Other stuff, that will likely come up as I work on this.
 
 Please note, I am new to any sort of Android development, so this may take me a while! I am mainly doing this for the learning experience.
+
+* Android Development Basics: https://source.android.com/setup
